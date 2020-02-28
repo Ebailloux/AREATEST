@@ -1,4 +1,2 @@
 # AREATEST
 testing
-cc
-cc
