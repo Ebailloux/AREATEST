@@ -1,3 +1,1 @@
 # AREATEST
-ok
-sd
