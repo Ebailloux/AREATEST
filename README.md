@@ -1,6 +1,2 @@
 # AREATEST
 OK
-OK
-OK
-OK
-OK
